@@ -1,4 +1,4 @@
-# testt
+# firebase authentication sample
 
 A new Flutter project.
 
